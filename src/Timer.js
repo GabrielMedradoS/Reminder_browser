@@ -2,7 +2,7 @@ import { View } from "./View.js";
 import { Emitter } from "./Emitter.js";
 
 const Timer = {
-  time: 25 * 60,
+  time: 60 * 60,
   currentTime: 0,
   interval: null,
 
