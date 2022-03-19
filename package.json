@@ -1,0 +1,24 @@
+{
+  "name": "notifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielMedradoS/Reminder_browser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabrielMedradoS/Reminder_browser/issues"
+  },
+  "homepage": "https://github.com/GabrielMedradoS/Reminder_browser#readme",
+  "devDependencies": {
+    "electron": "^17.1.2"
+  }
+}
