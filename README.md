@@ -1,8 +1,11 @@
-## BeautySalon
+## Notifier
 
   <img alt="" src="" width="100%">
 
 ### 💻 Projeto
+
+Projeto ultilizado para me ajudar nos estudo com a tecnica pomodoro
+usando electron como base
 
 ### 🛠 Tecnologias
 
