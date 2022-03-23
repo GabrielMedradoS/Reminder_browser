@@ -12,6 +12,9 @@ const createWindow = () => {
 
   win.loadFile("index.html");
 
+  //blur da janela
+  /* win.on('blur', () => win.hide()) */
+
   return win;
 };
 
