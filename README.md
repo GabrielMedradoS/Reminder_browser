@@ -1,11 +1,10 @@
 ## Notifier
-
-  <img alt="" src="" width="100%">
+  <img alt="" src=".github/Notifier..png" width="20%">
+  <img alt="" src=".github/notifier.png" width="20%">
 
 ### 💻 Projeto
 
-Projeto ultilizado para me ajudar nos estudo com a tecnica pomodoro
-usando electron como base
+Com a intençao de criar um app para ajudar nos estudos, resolvi criar um projeto utilizando o electron junto a tecnica pomodoro.
 
 ### 🛠 Tecnologias
 
