@@ -1,7 +1,7 @@
 ## Notifier
 ### Layout 🚧
   <h1 align="center">
-  <img alt="" src=".github/Notifier..png" width="20%"> <br>
+  <img alt="" src=".github/github image.png" width="20%"> <br>
   <img alt="" src=".github/notifier.png" width="20%">
   </h1>
   
